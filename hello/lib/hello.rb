@@ -2,4 +2,4 @@
 #Author: Isaiah Smith (ss2smith@gmail.com)
 name = ARGV.first || "World"
 
-puts "Hello, {ARGV.first}!"
+puts "Hello, #{name}!"
